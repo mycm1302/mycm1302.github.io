@@ -1,66 +1,99 @@
-# 김코딩 | Kim Coding 👨‍💻
+# 문예철 |  Yecheol Moon
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mycm1302@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ycmoon)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Blog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://your-blog-url.com/)
+## 아직 내용 작성중 Work in progress
 
-## 👋 About Me
-> "기술로 세상을 더 나은 곳으로 만들고 싶은 백엔드 개발자입니다"
+## 🎓 Research Focus
+> "Advancing robotic systems through innovative control algorithms and human-robot interaction"
 
-- 🔭 현재 [회사명]에서 백엔드 개발자로 일하고 있습니다
-- 🌱 Java와 Spring Boot를 주로 사용하며, MSA 아키텍처에 관심이 많습니다
-- 👥 개발자 커뮤니티에서 활발히 활동하며 지식을 공유하고 있습니다
-- 📝 기술 블로그를 통해 배운 내용을 정리하고 공유합니다
+- 🔬 **현재 연구 분야**: 로보틱스 시스템 구축, 역학 해석, 제어 시스템 구축
+- 🏫 **소속**: 한양대학교 로봇 설계 연구실 RoDEL (Robot Design engineering laboratory)
+- 🌱 **관심 분야**: 
+  - Robotic Control Systems
+  - Human-Robot Interaction (HRI)
+  - System Architectures
+  - Dynamics
+
+## 📚 Education
+
+- 🎓 **Ph.D. in Robotics & Control Systems** (2021 - Present)
+  - 한양대학교 융합기계공학과
+  - Professor: TaeWon Seo
+  - 논문주제: "Novel Approach to Real-time Control Systems for Human-Robot Collaboration"
+
+- 🎓 **M.S. in Mechanical Engineering** (2018 - 2020)
+  - 한양대학교 융합기계공학과
+  - Professor: TaeWon Seo
+  - 논문: "Development of Advanced Control Algorithm for Robotic Manipulators"
+
+- 🎓 **B.S. in Mechanical Engineering** (2014 - 2018)
+  - 한양대학교 기계공학과
+  - 논문: "Delta robot for circuit manufacturing"
 
 ## 🛠 Technical Skills
 
-**Backend**
-- Java / Spring Boot / Spring MVC / Spring Data JPA
-- MySQL / PostgreSQL / MongoDB
-- AWS (EC2, RDS, S3)
-- Docker / Kubernetes
+**Robotics & Control**
+- Robot Operating System (ROS2)
+- Control System Design
+- Motion Planning
+- Dynamics & Kinematics
 
-**Frontend**
-- HTML5 / CSS3 / JavaScript
-- React.js (기초)
+**Programming & Tools**
+- C++ / Python
+- MATLAB / Simulink
+- LabVIEW
+- CAD Tools (SolidWorks, CATIA)
 
-**Tools & Collaboration**
-- Git / GitHub
-- Jira / Confluence
-- IntelliJ IDEA / VS Code
+**Hardware & Sensors**
+- Robotic Manipulators
+- IMU Sensors
+- Force/Torque Sensors
+- Vision Systems
 
-## 💻 Projects
+## 📊 Research Projects
 
-### 1. 프로젝트명 [2023.09 - 2023.12]
-> 간단한 프로젝트 설명을 한 줄로 작성합니다
+### 1. 어센딩 4족 휠레그 로봇의 제어 시스템 연구 [2023 - Present]
+> 1쌍의 로프로 건물 외벽을 이동하는 휠레그 4족 로봇의 역학 해석 및 제어 시스템 제시
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/project-name)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/your-paper)
+[![Video](https://img.shields.io/badge/Video-Youtube-red)](https://youtube.com/your-video)
 
-- 프로젝트의 주요 기능 구현 (회원 관리, 예약 시스템 등)
-- Spring Boot와 JPA를 활용한 백엔드 API 개발
-- AWS 기반 클라우드 아키텍처 설계 및 구현
-- 일 평균 1000명의 사용자 트래픽 처리
+- 실시간 적응형 제어 알고리즘 개발
+- 인간-로봇 상호작용 안전성 검증
+- ROS2 기반 시스템 구현
+- 실제 로봇 플랫폼에서의 실험적 검증
 
-**Tech Stack:** `Spring Boot` `MySQL` `AWS` `Docker` `JPA`
+**Key Technologies:** `ROS2` `C++` `Python` `Real-time Control` `Robot Vision`
 
-## 📊 GitHub Stats
+### 2. 다중 로봇 시스템 협업 제어 [2022 - 2023]
+> 복수의 로봇 팔을 이용한 협동 작업 수행 연구
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+- 다중 로봇 시스템의 동기화 제어
+- 충돌 회피 알고리즘 구현
+- 작업 최적화 알고리즘 개발
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Spring Boot 성능 최적화 방법 5가지](https://your-blog.com/post1)
-- [Docker 컨테이너 보안 강화하기](https://your-blog.com/post2)
-- [JPA N+1 문제 해결하기](https://your-blog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+## 📝 Publications
 
-## 🏆 Certifications
-- 정보처리기사 (2022)
-- AWS Solutions Architect Associate (2023)
-- SQLD (2022)
+### Journal Papers
+1. Kim, X., Lee, X., & Park, X. (2023). "Novel Control Algorithm for Human-Robot Collaboration" *IEEE Transactions on Robotics*
+2. Lee, X., Kim, X., et al. (2022). "Real-time System Implementation for Robotic Control" *Robotics and Autonomous Systems*
+
+### Conference Papers
+1. Kim, X., & Park, X. (2023). "Adaptive Control System for Multiple Robot Arms" *IROS 2023*
+2. Park, X., Kim, X., et al. (2022). "Human-Robot Interaction in Manufacturing" *ICRA 2022*
+
+## 🏆 Awards & Honors
+- Best Paper Award, IROS 2023
+- 한국로봇학회 우수논문상 (2022)
+- XX대학교 총장 우수연구상 (2023)
+
+## 💻 Open Source Contributions
+- [ROS2 Control Package](https://github.com/your-username/ros2-control): 실시간 로봇 제어를 위한 ROS2 패키지
+- [Robot Vision Library](https://github.com/your-username/robot-vision): 로봇 비전 처리를 위한 라이브러리
 
 ---
-### 🤝 Contact Me
-- 📧 Email: your.email@gmail.com
-- 💼 LinkedIn: [김코딩의 링크드인](https://www.linkedin.com/in/your-profile)
-- 📝 Blog: [김코딩의 개발블로그](https://your-blog-url.com)
+### 📫 Contact
+- 📧 Academic Email: mycm1302@hanyang.ac.kr
+- 🏛 Lab: 한양대학교 공업센터본관 217호 로봇설계연구실
+- 🔬 Lab Website: [Robot Intelligence Laboratory](https://lab-website.edu)
