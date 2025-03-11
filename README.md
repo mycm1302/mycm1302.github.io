@@ -13,6 +13,7 @@
   - Trajectory optimization
   - System Architectures
   - Dynamics
+
 ---
 
 ## Education
@@ -30,6 +31,7 @@
 - **B.S. in Mechanical Engineering** (2014 - 2018)
   - 한양대학교 기계공학과
   - 논문: "Delta robot for circuit manufacturing"
+
 ---
 
 ## Technical Skills
@@ -51,6 +53,7 @@
 - IMU Sensors
 - Force/Torque Sensors
 - Vision Systems (Lidar, despth camera)
+
 ---
 
 ## Research Projects
@@ -104,6 +107,7 @@
 
 - ROS2 시스템 및 전장부 시스템 구현
 - Nav2 기반 DWB 패스 플래닝 시스템 개발
+
 ---
 
 ### 미국 파견 사업 - VTT 경로 이동 패스플래닝 [2022 - 2022]
@@ -118,6 +122,7 @@
     <img src="/Media/VTT/TrajectoryNode.JPG" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇">
   </div>
 </div>
+
 ---
 
 ### 벽면 청소 로봇 타입 개발 [2021 - 2022]
@@ -153,9 +158,8 @@
   </div>
 </div>
 
-
-
 ---
+
 ### Journal Papers
 #### As primary author
 1. Chae, H., Moon, Y., Lee, K., Park, S., Kim, H. S., & Seo, T. (2022). A tethered façade cleaning robot based on a dual rope windlass climbing mechanism: Design and experiments. IEEE/ASME Transactions on Mechatronics, 27(4), 1982-1989.
@@ -167,6 +171,7 @@
 3. Lee, J., Park, G., Moon, Y., Lee, S., & Seo, T. (2019). Robust design of detecting contaminants in façade cleaning applications. IEEE Access, 8, 2869-2884.
 4. Kyong, H., Choi, M., Moon, Y., Lee, K., Kim, J., Kim, T., & Seo, T. (2021). Position error compensation of Façade-cleaning robot by optimal rope winch design. IEEE Access, 9, 143392-143405.
 5. Ahn, S., Hyun, D., Moon, Y., Lee, J., Kim, H., & Seo, T. (2025). Two-DoF turret mechanism for a rope-driven wheel-legged climbing robot on a 3D façade. Measurement, 242, 116073.
+
 ---
 
 ### Conference Papers
@@ -184,6 +189,7 @@
 7. 박정애, 문예철, 배장호, 서태원. 수중 로봇 매니퓰레이터의 하드웨어 설계. 한국정밀공학회 학술발표대회 논문집, 2019, 346-346.
 8.  박정애, 문예철, 배장호, 진상록, 서태원. 틸팅하는 추진기를 지닌 수중로봇의 추력벡터 분해와 안티와인드업 기법으로 구성된 제어기의 제어 이득 최적화. 한국정밀공학회 학술발표대회 논문집, 2019, 73-73.
 9.  김혁, 문예철. 얀센 메커니즘의 다리 보행 로봇 개발 및 최적화. EDISON SW 활용 경진대회 논문집, 2016, 417-423.
+
 ---
 
 ## Patent
@@ -195,14 +201,13 @@
 - [건물 외벽 청소 로봇(Robot for cleaning building outer wall)](https://doi.org/10.8080/1020210065790)
 
 ---
+
 ### Contact
 - Academic Email: mycm1302@hanyang.ac.kr
 - Lab: 한양대학교 공업센터본관 217호 로봇설계연구실
 - Lab Website: [Robot Intelligence Laboratory](https://lab-website.edu)
 
 ---
+
 ### Reference for this page
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges)
-
-
-
