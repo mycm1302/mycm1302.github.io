@@ -58,7 +58,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/your-paper)
 [![Video](https://img.shields.io/badge/Video-Youtube-red)](https://youtube.com/your-video)
-
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycm1302/edelstro-control-packages)
 - 실시간 적응형 제어 알고리즘 개발
 - 인간-로봇 상호작용 안전성 검증
 - ROS2 기반 시스템 구현
@@ -109,7 +109,6 @@ IEEE Access 8, 2869-2884 2019
 6. Position error compensation of Façade-cleaning robot by optimal rope winch design
 H Kyong, M Choi, Y Moon, K Lee, J Kim, T Kim, T Seo
 IEEE Access 9, 143392-143405, 2021
-
 
 7. Two-DoF turret mechanism for a rope-driven wheel-legged climbing robot on a 3D façade
 S Ahn, DG Hyun, Y Moon, J Lee, HS Kim, TW Seo
