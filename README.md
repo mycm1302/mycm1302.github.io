@@ -64,17 +64,12 @@
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
     <img src="/Media/Edelstro/robot structure.png" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇">
   </div>
-</div><div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 2%; max-width: 100%; overflow-x: auto; align-items: center;">
-
-
-
-  <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/Edelstro/control_framework2.png" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇2">
-  </div>
-  <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/Edelstro/system_diagram.png" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇">
-  </div>
 </div>
+
+![image](/Media/Edelstro/control_framework2.png)
+![image](/Media/Edelstro/system_diagram.png)
+
+
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycm1302/edelstro-control-packages) (공개 검토중)
 
