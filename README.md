@@ -3,7 +3,7 @@
 
 ---
 
-## Research Focus
+# Research Focus
 > "로봇 시스템 구축 및 4족 로봇의 Trajectory optimization"
 
 - **현재 연구 분야**: 로봇 시스템 구축, 역학 해석, 최적 경로 생성
@@ -16,7 +16,7 @@
 
 ---
 
-## Education
+# Education
 
 - **Ph.D. in Robotics & Control Systems** (2021 - Present)
   - 한양대학교 융합기계공학과
@@ -34,7 +34,7 @@
 
 ---
 
-## Technical Skills
+# Technical Skills
 
 **Robotics & Control**
 - Robot Operating System 2 (ROS2)
@@ -56,9 +56,9 @@
 
 ---
 
-## Research Projects
+# Research Projects
 
-### 어센딩 4족 휠레그 로봇의 제어 시스템 연구 [2023 - Present]
+## 어센딩 4족 휠레그 로봇의 제어 시스템 연구 [2023 - Present]
 > 1쌍의 로프로 건물 외벽을 이동하는 휠레그 4족 로봇의 역학 해석 및 제어 시스템 제시
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 2%; max-width: 100%; overflow-x: auto; align-items: center;">
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
@@ -83,7 +83,7 @@
 
 ---
 
-### ASW 시스템을 기반으로 한 공동구 탐색 로봇 [2022 - 2023]
+## ASW 시스템을 기반으로 한 공동구 탐색 로봇 [2022 - 2023]
 > 공동구 탐색을 위한 소형 ASW 기반의 Lidar SLAM 로봇 시스템 개발 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 2%; max-width: 100%; overflow-x: auto; align-items: center;">
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
@@ -110,7 +110,7 @@
 
 ---
 
-### 미국 파견 사업 - VTT 경로 이동 패스플래닝 [2022 - 2022]
+## 미국 파견 사업 - VTT 경로 이동 패스플래닝 [2022 - 2022]
 > Spiral zipper 기반 VTT(Variable Truss Topology) 로봇의 이동 경로 생성 
 > 
 ![image](/Media/VTT/프로토타입.JPG)
@@ -125,7 +125,7 @@
 
 ---
 
-### 벽면 청소 로봇 타입 개발 [2021 - 2022]
+## 벽면 청소 로봇 타입 개발 [2021 - 2022]
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 2%; max-width: 100%; overflow-x: auto; align-items: center;">
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
@@ -146,7 +146,7 @@
 
 ---
 
-### 수중 로봇 프로젝트 [2018 - 2020]
+## 수중 로봇 프로젝트 [2018 - 2020]
 
 ![image](/Media/수중로봇_전체_구조.png)
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 2%; max-width: 100%; overflow-x: auto; align-items: center;">
@@ -160,12 +160,12 @@
 
 ---
 
-### Journal Papers
-#### As primary author
+# Journal Papers
+## As primary author
 1. Chae, H., Moon, Y., Lee, K., Park, S., Kim, H. S., & Seo, T. (2022). A tethered façade cleaning robot based on a dual rope windlass climbing mechanism: Design and experiments. IEEE/ASME Transactions on Mechatronics, 27(4), 1982-1989.
 2. Moon, Y., Hong, J., Jin, S., Bae, J., & Seo, T. (2021). Real-time UVMS torque distribution algorithm based on weighting matrix. Plos one, 16(7), e0253771.
 
-#### As contributing author
+## As contributing author
 1. Bak, J., Moon, Y., Kim, J., Mohan, S., Seo, T., & Jin, S. (2022). Hovering control of an underwater robot with tilting thrusters using the decomposition and compensation method based on a redundant actuation model. Robotics and Autonomous Systems, 150, 103995.
 2. . Bae, J., Moon, Y., Park, E., Kim, J., Jin, S., & Seo, T. (2022). Cooperative underwater vehicle-manipulator operation using redundant resolution method. International Journal of Precision Engineering and Manufacturing, 23(9), 1003-1017.
 3. Lee, J., Park, G., Moon, Y., Lee, S., & Seo, T. (2019). Robust design of detecting contaminants in façade cleaning applications. IEEE Access, 8, 2869-2884.
@@ -174,12 +174,12 @@
 
 ---
 
-### Conference Papers
-#### As primary author
+# Conference Papers
+## As primary author
 1. Moon, Y., Hyun, D., Ahn, S., Lee, J., Joo, H., Kim, J., Kim, H., & Seo, T. Experimental study of a mobile robot that can move the dome shape façade. 대한기계학회 춘추학술대회, 2024, 206-207.
 2. Moon, Y., Bae, J., Yim, M., & Seo, T. Simulation Study on the Locomotion Algorithm of Variable Topology Truss Robot based on Motion Primitives. In: 2022 19th International Conference on Ubiquitous Robots (UR). IEEE, 2022. p. 219-224.
 
-#### As contributing author
+## As contributing author
 1. 안사훈, 현동근, 문예철, 이종명, 김화수, 서태원. 비정형 외벽 건물 환경에서 로프 구동 기반 휠레그 등반 로봇의 적응 제어 전략. 대한기계학회 춘추학술대회, 2024, 40-41.
 2. 이종명; 문예철; 서태원. 기울어진 스포크 휠을 가지는 로봇의 현장 적용 연구. 대한기계학회 춘추학술대회, 2023, 69-70.
 3. 도현구, 김지홍, 안사훈, 문예철, 현동근, 양정모, 주형찬, 김화수, 서태원. 비정형 외벽 장애물 극복을 위한 휠-레그 로봇의 궤적 최적화. 대한기계학회 춘추학술대회, 2023, 1375-1375.
@@ -192,8 +192,11 @@
 
 ---
 
-## Patent
+# Patent
+## US patent
 - [Building exterior wall cleaning robot](https://patents.google.com/patent/US20240217092A1/en)
+
+## KR patent
 - [밧줄 보호 모듈 및 이를 포함하는 밧줄 보호 장치(Rope protection module and rope protection apparatus comprising the same)](https://doi.org/10.8080/1020220059195)
 - [공동구 점검 로봇을 이용한 공동구 내부의 실시간 점검 시스템 및 그 방법(A real-time inspection system and method for the interior of a cavity using a cavity inspection robot)](https://doi.org/10.8080/1020230122928)
 - [멀티 시브 장치 및 이를 포함하는 무한 로프 윈치 시스템(Multi sheave apparatus and infinite rope winch system including the same)](https://doi.org/10.8080/1020220002870)
@@ -202,12 +205,12 @@
 
 ---
 
-### Contact
+# Contact
 - Academic Email: mycm1302@hanyang.ac.kr
 - Lab: 한양대학교 공업센터본관 217호 로봇설계연구실
 - Lab Website: [Robot Intelligence Laboratory](https://lab-website.edu)
 
 ---
 
-### Reference for this page
+# Reference for this page
 - [markdown-badges](https://github.com/Ileriayo/markdown-badges)
