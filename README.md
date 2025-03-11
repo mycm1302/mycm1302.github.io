@@ -173,10 +173,13 @@
 
 ---
 
-# Conference Papers
+# Conference presentation
 ## As primary author
 1. Moon, Y., Hyun, D., Ahn, S., Lee, J., Joo, H., Kim, J., Kim, H., & Seo, T. Experimental study of a mobile robot that can move the dome shape façade. 대한기계학회 춘추학술대회, 2024, 206-207.
 2. Moon, Y., Bae, J., Yim, M., & Seo, T. Simulation Study on the Locomotion Algorithm of Variable Topology Truss Robot based on Motion Primitives. In: 2022 19th International Conference on Ubiquitous Robots (UR). IEEE, 2022. p. 219-224.
+3. Yecheol Moon, Jangho Bae, Sangrok Jin, Jongwon Kim, TaeWon Seo. Redundant Resolution Method of an Underwater Manipulation for Disturbance Rejection. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2019.
+4. 문예철, 안사훈, 현동근, 김채원, 도현구, 주형찬, 이종명, 이강엽, 권준혁, 김지홍, 김화수, 서태원. 비정형 형상 외벽 이동을 위한 로봇 시스템의 설계. 한국로봇종합학술대회, 2024.
+
 
 ## As contributing author
 1. 안사훈, 현동근, 문예철, 이종명, 김화수, 서태원. 비정형 외벽 건물 환경에서 로프 구동 기반 휠레그 등반 로봇의 적응 제어 전략. 대한기계학회 춘추학술대회, 2024, 40-41.
@@ -187,8 +190,8 @@
 6. 홍종인, 문예철, 배장호, 박정애, 진상록, 김종원, 서태원. 높은 마찰의 수중 매니퓰레이터 모듈의 LuGre 모델을 이용한 마찰 모델 및 보상. 대한기계학회 춘추학술대회, 2020, 165-166.
 7. 박정애, 문예철, 배장호, 서태원. 수중 로봇 매니퓰레이터의 하드웨어 설계. 한국정밀공학회 학술발표대회 논문집, 2019, 346-346.
 8.  박정애, 문예철, 배장호, 진상록, 서태원. 틸팅하는 추진기를 지닌 수중로봇의 추력벡터 분해와 안티와인드업 기법으로 구성된 제어기의 제어 이득 최적화. 한국정밀공학회 학술발표대회 논문집, 2019, 73-73.
-9.  김혁, 문예철. 얀센 메커니즘의 다리 보행 로봇 개발 및 최적화. EDISON SW 활용 경진대회 논문집, 2016, 417-423.
-
+9.  Jeongae Bak, Yecheol Moon, Sangrok Jin, Jongwon Kim, TaeWon Seo. Hovering Control of a TTURT with Thrust Vector Decomposition Technique. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2019.
+10. 김혁, 문예철. 얀센 메커니즘의 다리 보행 로봇 개발 및 최적화. EDISON SW 활용 경진대회 논문집, 2016, 417-423.
 ---
 
 # Patent
@@ -207,7 +210,7 @@
 # Contact
 - Academic Email: mycm1302@hanyang.ac.kr
 - Lab: 한양대학교 공업센터본관 217호 로봇설계연구실
-- Lab Website: [Robot Intelligence Laboratory](https://lab-website.edu)
+- Lab Website: [Robot Design Engineering Lab](http://rodel.hanyang.ac.kr/)
 
 ---
 
