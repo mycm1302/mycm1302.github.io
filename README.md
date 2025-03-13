@@ -166,7 +166,7 @@
 
 ## As contributing author
 1. Bak, J., Moon, Y., Kim, J., Mohan, S., Seo, T., & Jin, S. (2022). Hovering control of an underwater robot with tilting thrusters using the decomposition and compensation method based on a redundant actuation model. Robotics and Autonomous Systems, 150, 103995.
-2. . Bae, J., Moon, Y., Park, E., Kim, J., Jin, S., & Seo, T. (2022). Cooperative underwater vehicle-manipulator operation using redundant resolution method. International Journal of Precision Engineering and Manufacturing, 23(9), 1003-1017.
+2. Bae, J., Moon, Y., Park, E., Kim, J., Jin, S., & Seo, T. (2022). Cooperative underwater vehicle-manipulator operation using redundant resolution method. International Journal of Precision Engineering and Manufacturing, 23(9), 1003-1017.
 3. Lee, J., Park, G., Moon, Y., Lee, S., & Seo, T. (2019). Robust design of detecting contaminants in façade cleaning applications. IEEE Access, 8, 2869-2884.
 4. Kyong, H., Choi, M., Moon, Y., Lee, K., Kim, J., Kim, T., & Seo, T. (2021). Position error compensation of Façade-cleaning robot by optimal rope winch design. IEEE Access, 9, 143392-143405.
 5. Ahn, S., Hyun, D., Moon, Y., Lee, J., Kim, H., & Seo, T. (2025). Two-DoF turret mechanism for a rope-driven wheel-legged climbing robot on a 3D façade. Measurement, 242, 116073.
@@ -189,8 +189,8 @@
 5. Chae, H., Moon, Y., Lee, K. O., Park, S. J., Kim, H. S., & Seo, T. Design and development of wall cleaning robot with dual rope climbing mechanism. 대한기계학회 춘추학술대회, 2021, 1637-1640.
 6. 홍종인, 문예철, 배장호, 박정애, 진상록, 김종원, 서태원. 높은 마찰의 수중 매니퓰레이터 모듈의 LuGre 모델을 이용한 마찰 모델 및 보상. 대한기계학회 춘추학술대회, 2020, 165-166.
 7. 박정애, 문예철, 배장호, 서태원. 수중 로봇 매니퓰레이터의 하드웨어 설계. 한국정밀공학회 학술발표대회 논문집, 2019, 346-346.
-8.  박정애, 문예철, 배장호, 진상록, 서태원. 틸팅하는 추진기를 지닌 수중로봇의 추력벡터 분해와 안티와인드업 기법으로 구성된 제어기의 제어 이득 최적화. 한국정밀공학회 학술발표대회 논문집, 2019, 73-73.
-9.  Jeongae Bak, Yecheol Moon, Sangrok Jin, Jongwon Kim, TaeWon Seo. Hovering Control of a TTURT with Thrust Vector Decomposition Technique. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2019.
+8. 박정애, 문예철, 배장호, 진상록, 서태원. 틸팅하는 추진기를 지닌 수중로봇의 추력벡터 분해와 안티와인드업 기법으로 구성된 제어기의 제어 이득 최적화. 한국정밀공학회 학술발표대회 논문집, 2019, 73-73.
+9. Jeongae Bak, Yecheol Moon, Sangrok Jin, Jongwon Kim, TaeWon Seo. Hovering Control of a TTURT with Thrust Vector Decomposition Technique. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2019.
 10. 김혁, 문예철. 얀센 메커니즘의 다리 보행 로봇 개발 및 최적화. EDISON SW 활용 경진대회 논문집, 2016, 417-423.
 
 ---
