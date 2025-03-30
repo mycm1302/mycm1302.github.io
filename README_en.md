@@ -291,10 +291,11 @@
 - [Building exterior wall cleaning robot](https://patents.google.com/patent/US20240217092A1/en)
 
 ## KR patent
-- [밧줄 보호 모듈 및 이를 포함하는 밧줄 보호 장치(Rope protection module and rope protection apparatus comprising the same)](https://doi.org/10.8080/1020220059195)
 - [공동구 점검 로봇을 이용한 공동구 내부의 실시간 점검 시스템 및 그 방법(A real-time inspection system and method for the interior of a cavity using a cavity inspection robot)](https://doi.org/10.8080/1020230122928)
 - [멀티 시브 장치 및 이를 포함하는 무한 로프 윈치 시스템(Multi sheave apparatus and infinite rope winch system including the same)](https://doi.org/10.8080/1020220002870)
 - [변형바퀴를 갖는 주행장치(Driving deivce with the deformed wheels)](https://doi.org/10.8080/1020190085132)
+
+- [밧줄 보호 모듈 및 이를 포함하는 밧줄 보호 장치(Rope protection module and rope protection apparatus comprising the same)](https://doi.org/10.8080/1020220059195)
 - [건물 외벽 청소 로봇(Robot for cleaning building outer wall)](https://doi.org/10.8080/1020210065790)
 
 ---
