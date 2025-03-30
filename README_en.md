@@ -285,3 +285,26 @@
 8. 박정애, 문예철, 배장호, 진상록, 서태원. 틸팅하는 추진기를 지닌 수중로봇의 추력벡터 분해와 안티와인드업 기법으로 구성된 제어기의 제어 이득 최적화. 한국정밀공학회 학술발표대회 논문집, 2019, 73-73.
 9. Jeongae Bak, Yecheol Moon, Sangrok Jin, Jongwon Kim, TaeWon Seo. Hovering Control of a TTURT with Thrust Vector Decomposition Technique. IEEE/RSJ International Conference on Intelligent Robots and Systems, 2019.
 10. 김혁, 문예철. 얀센 메커니즘의 다리 보행 로봇 개발 및 최적화. EDISON SW 활용 경진대회 논문집, 2016, 417-423.
+
+# Patent
+## US patent
+- [Building exterior wall cleaning robot](https://patents.google.com/patent/US20240217092A1/en)
+
+## KR patent
+- [밧줄 보호 모듈 및 이를 포함하는 밧줄 보호 장치(Rope protection module and rope protection apparatus comprising the same)](https://doi.org/10.8080/1020220059195)
+- [공동구 점검 로봇을 이용한 공동구 내부의 실시간 점검 시스템 및 그 방법(A real-time inspection system and method for the interior of a cavity using a cavity inspection robot)](https://doi.org/10.8080/1020230122928)
+- [멀티 시브 장치 및 이를 포함하는 무한 로프 윈치 시스템(Multi sheave apparatus and infinite rope winch system including the same)](https://doi.org/10.8080/1020220002870)
+- [변형바퀴를 갖는 주행장치(Driving deivce with the deformed wheels)](https://doi.org/10.8080/1020190085132)
+- [건물 외벽 청소 로봇(Robot for cleaning building outer wall)](https://doi.org/10.8080/1020210065790)
+
+---
+
+# Contact
+- Academic Email: mycm1302@hanyang.ac.kr
+- Lab: 한양대학교 공업센터본관 217호 로봇설계연구실
+- Lab Website: [Robot Design Engineering Lab](http://rodel.hanyang.ac.kr/)
+
+---
+
+# Reference for this page
+- [markdown-badges](https://github.com/Ileriayo/markdown-badges)
