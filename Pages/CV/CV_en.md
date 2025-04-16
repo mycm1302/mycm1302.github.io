@@ -1,17 +1,17 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mycm1302@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ycmoon)[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.kr/citations?user=XA4uoGAAAAAJ&hl=ko&oi=ao)
 
-[English](README_en.md)
+[한국어](CV_kr.md)
 
 ---
 
 # Research Focus
-> "로봇 시스템 구축 및 4족 로봇의 Trajectory optimization"
+> "Robotic System Development and Trajectory Optimization for Quadruped Robots"
 
-- **현재 연구 분야**: 로봇 시스템 구축, 역학 해석, 최적 경로 생성
-- **소속**: 한양대학교 로봇 설계 연구실 RoDEL (Robot Design engineering laboratory)
-- **관심 분야**: 
-  - Robotic overall Systems
-  - Trajectory optimization
+- **Current Research Areas**: Robotic System Integration, Dynamic Analysis, Optimal Trajectory Generation
+- **Affiliation**: RoDEL (Robot Design Engineering Laboratory), Hanyang University
+- **Research Interests**: 
+  - Robotic Overall Systems
+  - Trajectory Optimization
   - System Architectures
   - Dynamics
 
@@ -20,100 +20,100 @@
 # Education
 
 - **Ph.D. in Robotics & Control Systems** (2021 - Present)
-  - 한양대학교 융합기계공학과
+  - Department of Convergence Mechanical Engineering, Hanyang University
   - Professor: TaeWon Seo
-  - 논문주제: "로프 기반 어센더 모듈을 이용한 4족 로봇 시스템 구축과 Trajectory optimization"
+  - Dissertation: "Quadruped Robot System Development with Rope-based Ascender Module and Trajectory Optimization"
 
 - **M.S. in Mechanical Engineering** (2018 - 2020)
-  - 한양대학교 융합기계공학과
+  - Department of Convergence Mechanical Engineering, Hanyang University
   - Professor: TaeWon Seo
-  - 논문: "Torque distribution based on real-time weighting matrix optimization between AUV and underwater manipulator"
+  - Thesis: "Torque Distribution Based on Real-time Weighting Matrix Optimization Between AUV and Underwater Manipulator"
 
 - **B.S. in Mechanical Engineering** (2014 - 2018)
-  - 한양대학교 기계공학과
-  - 논문: "Delta robot for circuit manufacturing"
+  - Department of Mechanical Engineering, Hanyang University
+  - Thesis: "Delta Robot for Circuit Manufacturing"
 
 ---
 
 # Technical Skills
 
 **Robotics & Control**
-- Robot Operating System 2 (ROS2) - 고급
-- Electric system and PCB desgin - 고급
-- Motion Planning - 중급
-- Dynamics & Kinematics - 고급
+- Robot Operating System 2 (ROS2) - Advanced
+- Electric System and PCB Design - Advanced
+- Motion Planning - Intermediate
+- Dynamics & Kinematics - Advanced
 
 **Programming & Tools**
-- C++ / Python - 고급
-- MATLAB / Simulink - 중급
-- LabVIEW - 중급
-- CAD Tools (SolidWorks, CATIA) - 중급
+- C++ / Python - Advanced
+- MATLAB / Simulink - Intermediate
+- LabVIEW - Intermediate
+- CAD Tools (SolidWorks, CATIA) - Intermediate
 
 **Hardware & Sensors**
-- Robotic Manipulators - 고급
-- IMU Sensors - 중급
-- Force/Torque Sensors - 중급
-- Vision Systems (Lidar, despth camera) - 중급
+- Robotic Manipulators - Advanced
+- IMU Sensors - Intermediate
+- Force/Torque Sensors - Intermediate
+- Vision Systems (Lidar, Depth Camera) - Intermediate
 
 ---
 
 # Research Projects
 
-## 어센딩 4족 휠레그 로봇의 제어 시스템 연구 [2023 - Present]
-> 1쌍의 로프로 건물 외벽을 이동하는 휠레그 4족 로봇의 역학 해석 및 제어 시스템 제시
+## Control System Research for Ascending Quadruped Wheel-Legged Robot [2023 - Present]
+> Dynamics analysis and control system development for a wheel-legged quadruped robot moving on building facades using a pair of ropes
 
-- **역할**: 4개 기관(CSCAM, 한양대학교, 경기대학교, 서울과학기술대학교) 참여 대형 과제의 그룹장
-- **주요 책임**:
-  - 전체 로봇 제어 시스템 아키텍처 설계 및 개발 책임
-  - 레거시 LabVIEW 기반 시스템에서 ROS2로의 전환 주도
-  - 로봇 전장부 설계 및 CAN 통신 시스템 구축
-- **기술적 기여**:
-  - 복합 메커니즘(어센더, 레그, 휠) 통합을 위한 ROS2 노드 기반 분산 제어 시스템 구현
-  - 20자유도 로봇의 효율적 제어를 위한 시스템 아키텍처 설계
-  - 오픈 루프 제어 시스템에서 자율 최적화 알고리즘으로의 발전 연구 진행 중
+- **Role**: Group leader of a large-scale project involving 4 institutions (CSCAM, Hanyang University, Kyonggi University, Seoul National University of Science and Technology)
+- **Key Responsibilities**:
+  - Design and development of the overall robot control system architecture
+  - Led transition from legacy LabVIEW-based system to ROS2
+  - Designed robot electrical systems and CAN communication network
+- **Technical Contributions**:
+  - Implemented ROS2 node-based distributed control system integrating complex mechanisms (ascender, legs, wheels)
+  - Designed system architecture for efficient control of a 20-DOF robot
+  - Currently advancing research from open-loop control to autonomous optimization algorithms
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 2%; max-width: 100%; overflow-x: auto; align-items: center;">
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/Edelstro/Experiment.jpg" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇2">
+    <img src="/Media/Edelstro/Experiment.jpg" style="width: 100%; height: 100%; object-fit: contain;" alt="Robot Experiment">
   </div>
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/Edelstro/robot structure.png" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇">
+    <img src="/Media/Edelstro/robot structure.png" style="width: 100%; height: 100%; object-fit: contain;" alt="Robot Structure">
   </div>
 </div>
 
 ![image](/Media/Edelstro/control_framework2.png)
 ![image](/Media/Edelstro/system_diagram.png)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycm1302/edelstro-control-packages) (공개 검토중)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycm1302/edelstro-control-packages) (under public review)
 
 ---
 
-## ASW 시스템을 기반으로 한 공동구 탐색 로봇 [2022 - 2023]
-> 공동구 탐색을 위한 소형 ASW 기반의 Lidar SLAM 로봇 시스템 개발
+## Utility Tunnel Inspection Robot Based on ASW System [2022 - 2023]
+> Development of a small Lidar SLAM robot system based on ASW for utility tunnel inspection
 
-- **역할**: 2인 팀의 팀장, 시스템 설계 및 개발 총괄
-- **주요 책임**:
-  - 로봇 전장 시스템 설계 및 구현
-  - ROS2 기반 통합 제어 시스템 구축
-  - 센서 통합 및 데이터 처리 시스템 개발
-- **기술적 기여**:
-  - 벨로다인 라이다 기반 SLAM 및 로컬라이제이션 시스템 구현
-  - SLAM Toolbox(2D SLAM) 및 LeGO-LOAM(3D SLAM) 알고리즘 적용
-  - Nav2 프레임워크 기반 DWB(Dynamic Window B) 경로 계획 알고리즘 구현
-  - 가스, 온도, 산소, CO2 측정을 위한 통합 센서 모듈 개발
-  - 좁은 공간에서의 위치 추정 정확도 향상을 위한 코스트맵 레인지 조정 및 위치 재갱신 알고리즘 개발
-- **성과**:
-  - 스포크 휠 기반 장애물 극복 로봇 플랫폼 구현
-  - 공동구 환경 모니터링 통합 시스템 개발
-  - 현대엔지니어링 내부 시설에서 실증 테스트 성공적 수행
-  - 원격 및 자율 주행 모드 지원 시스템 구현
+- **Role**: Team leader of a 2-person team, overall system design and development
+- **Key Responsibilities**:
+  - Robot electrical system design and implementation
+  - ROS2-based integrated control system development
+  - Sensor integration and data processing system development
+- **Technical Contributions**:
+  - Implemented Velodyne Lidar-based SLAM and localization system
+  - Applied SLAM Toolbox (2D SLAM) and LeGO-LOAM (3D SLAM) algorithms
+  - Implemented Nav2 framework-based DWB (Dynamic Window B) path planning algorithm
+  - Developed integrated sensor module for gas, temperature, oxygen, and CO2 measurement
+  - Enhanced position estimation accuracy in narrow spaces through costmap range adjustment and position update algorithms
+- **Achievements**:
+  - Implemented a spoke wheel-based obstacle-overcoming robot platform
+  - Developed an integrated utility tunnel environment monitoring system
+  - Successfully conducted validation tests at Hyundai Engineering internal facilities
+  - Implemented system supporting both remote and autonomous navigation modes
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 2%; max-width: 100%; overflow-x: auto; align-items: center;">
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/UTIR/UTIR_사진.png" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇2">
+    <img src="/Media/UTIR/UTIR_사진.png" style="width: 100%; height: 100%; object-fit: contain;" alt="Utility Tunnel Inspection Robot">
   </div>
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/UTIR/현장사진.jpg" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇">
+    <img src="/Media/UTIR/현장사진.jpg" style="width: 100%; height: 100%; object-fit: contain;" alt="Field Test">
   </div>
 </div>
 
@@ -121,121 +121,126 @@
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 2%; max-width: 100%; overflow-x: auto; align-items: center;">
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/UTIR/SLAM.png" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇2">
+    <img src="/Media/UTIR/SLAM.png" style="width: 100%; height: 100%; object-fit: contain;" alt="SLAM">
   </div>
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/UTIR/3dslam.png" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇">
+    <img src="/Media/UTIR/3dslam.png" style="width: 100%; height: 100%; object-fit: contain;" alt="3D SLAM">
   </div>
 </div>
 
 ---
 
-## 미국 파견 사업 - VTT 경로 이동 패스플래닝 [2022 - 2022]
-> Spiral zipper 기반 VTT(Variable Truss Topology) 로봇의 이동 경로 생성
+## U.S. Delegation Project - VTT Path Planning [2022]
+> Path generation for Spiral Zipper-based VTT (Variable Truss Topology) robots
 
-- **역할**: 박사과정 연구원, 시스템 구축 담당, 보조 연구원
-- **주요 책임**:
-  - VTT(Variable Topology Truss) 연구팀 지원 및 연구 참여
-  - 후속 파견 학생들을 위한 시스템 구축 및 매뉴얼 작성
-  - 모션 프리미티브 기반 최적 이동 경로 연구 수행
-- **기술적 기여**:
-  - 모듈러 로봇 제어를 위한 임베디드 시스템(ESP, STM32 기반) 학습 및 적용
-  - ROS2 통합 제어 시스템 구조 설계 및 구현
-  - 로봇의 기초 행동 원리 및 모션 프리미티브 연구
-- **성과**:
-  - 2022 International Conference on Ubiquitous Robots(UR) 논문 발표
-  - 모듈러 로봇의 그리핑 메커니즘 및 마그네틱 베어링 연구 참여
-  - 해외 연구 커뮤니티와의 협업 경험 습득
+- **Role**: Doctoral research assistant, system development lead, assistant researcher
+- **Key Responsibilities**:
+  - Support and participation in VTT (Variable Topology Truss) research team
+  - System development and manual creation for subsequent visiting students
+  - Research on motion primitive-based optimal movement path
+- **Technical Contributions**:
+  - Learned and applied embedded systems (ESP, STM32-based) for modular robot control
+  - Designed and implemented ROS2 integrated control system structure
+  - Researched basic behavioral principles and motion primitives of the robot
+- **Achievements**:
+  - Presented paper at 2022 International Conference on Ubiquitous Robots (UR)
+  - Participated in research on gripping mechanisms and magnetic bearings for modular robots
+  - Gained experience collaborating with international research community
 
 ![image](/Media/VTT/프로토타입.JPG)
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 2%; max-width: 100%; overflow-x: auto; align-items: center;">
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/VTT/motion_primitive.JPG" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇2">
+    <img src="/Media/VTT/motion_primitive.JPG" style="width: 100%; height: 100%; object-fit: contain;" alt="Motion Primitive">
   </div>
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/VTT/TrajectoryNode.JPG" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇">
+    <img src="/Media/VTT/TrajectoryNode.JPG" style="width: 100%; height: 100%; object-fit: contain;" alt="Trajectory Node">
   </div>
 </div>
 
 ---
 
-## 벽면 청소 로봇 타입 개발 [2021 - 2022]
+## Wall Cleaning Robot Type Development [2021 - 2022]
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 2%; max-width: 100%; overflow-x: auto; align-items: center;">
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/operation.png" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇2">
+    <img src="/Media/operation.png" style="width: 100%; height: 100%; object-fit: contain;" alt="Operation">
   </div>
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/로프어센딩.png" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇">
+    <img src="/Media/로프어센딩.png" style="width: 100%; height: 100%; object-fit: contain;" alt="Rope Ascending">
   </div>
 </div>
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 2%; max-width: 100%; overflow-x: auto; align-items: center;">
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/청소로봇실물구조.png" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇2">
+    <img src="/Media/청소로봇실물구조.png" style="width: 100%; height: 100%; object-fit: contain;" alt="Cleaning Robot Structure">
   </div>
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/청소로봇실물케이스.jpg" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇">
+    <img src="/Media/청소로봇실물케이스.jpg" style="width: 100%; height: 100%; object-fit: contain;" alt="Cleaning Robot Case">
   </div>
 </div>
 
 ---
 
-## 수중 로봇 프로젝트 [2018 - 2020]
+## Underwater Robot Project [2018 - 2020]
 
-- **역할**: 초기 연구 보조원에서 선임 연구원으로 승진, 팀장 역할 수행
-- **주요 책임**:
-  - 다양한 하위 시스템 통합 작업 주도
-  - 부력체 설계 및 제작
-  - 모터 제어 드라이버 시스템 회로 구성
-  - 기존 코드 정리 및 시스템 통합
-- **기술적 기여**:
-  - 수중 로봇(AUV)과 양쪽 매니퓰레이터의 통합 제어 시스템 구현
-  - 다자유도 협력 시스템의 최적 토크 분배 알고리즘 개발
-  - 실시간 가중치 행렬 최적화 기법 적용
-- **성과**:
-  - PLOS ONE 저널 논문 출판 ("Real-time UVMS torque distribution algorithm based on weighting matrix")
-  - 석사 학위 논문 완성
-  - 완전한 수중 로봇 시스템 구현 및 테스트 완료
+- **Role**: Promoted from initial research assistant to senior researcher, team leader
+- **Key Responsibilities**:
+  - Led integration of various subsystems
+  - Designed and fabricated buoyancy systems
+  - Configured motor control driver system circuits
+  - Organized existing code and integrated systems
+- **Technical Contributions**:
+  - Implemented integrated control system for underwater robot (AUV) and bilateral manipulators
+  - Developed optimal torque distribution algorithm for multi-DOF cooperative system
+  - Applied real-time weighting matrix optimization techniques
+- **Achievements**:
+  - Published journal paper in PLOS ONE ("Real-time UVMS torque distribution algorithm based on weighting matrix")
+  - Completed Master's thesis
+  - Successfully implemented and tested complete underwater robot system
 
 ![image](/Media/수중로봇_전체_구조.png)
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 2%; max-width: 100%; overflow-x: auto; align-items: center;">
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/수중로봇2.jpg" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇2">
+    <img src="/Media/수중로봇2.jpg" style="width: 100%; height: 100%; object-fit: contain;" alt="Underwater Robot 2">
   </div>
   <div style="flex: 0 0 48%; height: 250px; background-color: #f0f0f0;">
-    <img src="/Media/수중로봇.jpg" style="width: 100%; height: 100%; object-fit: contain;" alt="수중로봇">
+    <img src="/Media/수중로봇.jpg" style="width: 100%; height: 100%; object-fit: contain;" alt="Underwater Robot">
   </div>
 </div>
 
 ---
 
 # Research Experience
-
-## 참여 연구과제
-1. **다양한 형태의 외벽에서 자유롭게 이동이 가능한 로봇 플랫폼 개발**
-   * 협약기관: (재)한국연구재단
-   * 연구책임자: 서태원
-   * 참여기간: 2021.09.01~2025.02.28 (약 3년 6개월)
-2. **공동구 점검 로봇 기술**
-   * 협약기관: 현대엔지니어링 (주)
-   * 연구책임자: 서태원
-   * 참여기간: 2022.05.01~2022.12.31 (약 8개월)
-3. **여러 형태의 외벽청소 로봇의 인공지능 기반 적응형 제어알고리즘 개발**
-   * 협약기관: (재)한국연구재단
-   * 연구책임자: 서태원
-   * 참여기간: 2021.02.03~2021.12.31 (약 11개월)
-4. **로봇-엔지니어링 혁신설계 글로벌인재양성**
-   * 협약기관: 한국산업기술진흥원
-   * 연구책임자: 서태원/송시몬
-   * 참여기간: 2019.09.01~2022.02.13 (약 2년 5개월)
-5. **틸트 쓰러스터를 가지는 수중 로봇의 강건 위치 제어**
-   * 협약기관: (재)한국연구재단
-   * 연구책임자: 서태원
-   * 참여기간: 2018.09.01~2020.08.31 (약 2년)
-6. **멀티 스케일 수중 구조물 탐사 로봇 팀 시스템 연구**
-   * 협약기관: (재)한국연구재단
-   * 연구책임자: 서태원
-   * 참여기간: 2018.09.01~2020.02.29 (약 1년 6개월)
+## Participated Research Projects
+1. **Development of a Robot Platform Capable of Moving Freely on Various Types of Facades**
+   * Contracting Organization: National Research Foundation of Korea
+   * Principal Investigator: TaeWon Seo
+   * Participation Period: 2023.01.01 ~ 2025.02.28 (approx. 2 years)
+   * Role: Project group leader, electrical system development, ROS2 system integration, optimal control system development
+2. **Utility Tunnel Inspection Robot Technology**
+   * Contracting Organization: Hyundai Engineering Co., Ltd.
+   * Principal Investigator: TaeWon Seo
+   * Participation Period: 2022.05.01~2022.12.31 (approx. 8 months)
+   * Role: Team leader, software system development, electrical system integration
+3. **Global Talent Development for Robot-Engineering Innovation Design**
+   * Contracting Organization: Korea Institute for Advancement of Technology
+   * Principal Investigators: TaeWon Seo/Simon Song
+   * Participation Period: 2021.09.01~2022.02.28 (approx. 6 months)
+   * Role: Visiting scholar, assistant researcher
+4. **Development of AI-Based Adaptive Control Algorithm for Various Types of Facade Cleaning Robots**
+   * Contracting Organization: National Research Foundation of Korea
+   * Principal Investigator: TaeWon Seo
+   * Participation Period: 2021.03.01~2021.08.31 (approx. 6 months)
+   * Role: Researcher, software development
+5. **Robust Position Control of Underwater Robot with Tilt Thrusters**
+   * Contracting Organization: National Research Foundation of Korea
+   * Principal Investigator: TaeWon Seo
+   * Participation Period: 2018.09.01~2020.08.31 (approx. 2 years)
+   * Role: Researcher, team leader, integrated system development
+6. **Research on Multi-Scale Underwater Structure Exploration Robot Team System**
+   * Contracting Organization: National Research Foundation of Korea
+   * Principal Investigator: TaeWon Seo
+   * Participation Period: 2018.09.01~2020.02.29 (approx. 1 year and 6 months)
+   * Role: Researcher, team leader, integrated system development
 
 ---
 
@@ -302,7 +307,7 @@
 
 # Contact
 - Academic Email: mycm1302@hanyang.ac.kr
-- Lab: 한양대학교 공업센터본관 217호 로봇설계연구실
+- Lab: Robot Design Engineering Lab, Room 217, Engineering Center Main Building, Hanyang University
 - Lab Website: [Robot Design Engineering Lab](http://rodel.hanyang.ac.kr/)
 
 ---
