@@ -20,6 +20,8 @@
 <details>
 
 - [Eigen 라이브러리 로보틱스](Pages/Docs/Eigen_robotics.md) 
+- [RBDL 주요 기능 정리](Pages/Docs/RBDL_functions.md) 
+
 
 </details>
 
@@ -35,6 +37,7 @@
 ## 최근 프로젝트
 
 ![어센딩 로봇](/Media/Edelstro/Experiment.jpg)
+![T.O](/Media/Edelstro/TO_ex1.png)
 
 **어센딩 4족 휠레그 로봇의 제어 시스템 연구**
 - 로봇 제어 시스템 아키텍처 설계 및 개발
