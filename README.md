@@ -17,14 +17,8 @@
 - 작성 중
 
 ### 📚 기술 페이지
-<details>
-
 - [Eigen 라이브러리 로보틱스](Pages/Docs/Eigen_robotics.md) 
 - [RBDL 주요 기능 정리](Pages/Docs/RBDL_functions.md) 
-
-
-</details>
-
 
 
 ## 주요 연구 분야
