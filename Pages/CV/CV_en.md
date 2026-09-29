@@ -1,4 +1,6 @@
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mycm1302@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ycmoon)[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.kr/citations?user=XA4uoGAAAAAJ&hl=ko&oi=ao) [![Home](https://img.shields.io/badge/-Home-555555?style=for-the-badge&logo=github&logoColor=white)](../../README.md)[![CV-KOR](https://img.shields.io/badge/CV--KOR-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](CV_kr.md)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mycm1302@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ycmoon)[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.co.kr/citations?user=XA4uoGAAAAAJ&hl=ko&oi=ao)
+
+[![Home](https://img.shields.io/badge/-Home-555555?style=for-the-badge&logo=github&logoColor=white)](../../)[![CV-KOR](https://img.shields.io/badge/CV--KOR-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](CV_kr.html)
 
 ---
 
