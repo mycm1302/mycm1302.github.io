@@ -1,0 +1,7 @@
+<div style="margin-bottom: 1.4em; padding-bottom: 0.8em; border-bottom: 1px solid #e1e4e8; font-size: 0.95em;">
+  <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} style="font-weight:700; color:#24292e;"{% endif %}>Home</a>
+  <span style="color:#d1d5da;"> · </span>
+  <a href="{{ '/Pages/CV/CV_kr.html' | relative_url }}"{% if page.url contains 'CV_kr' %} style="font-weight:700; color:#24292e;"{% endif %}>CV (KOR)</a>
+  <span style="color:#d1d5da;"> · </span>
+  <a href="{{ '/Pages/CV/CV_en.html' | relative_url }}"{% if page.url contains 'CV_en' %} style="font-weight:700; color:#24292e;"{% endif %}>CV (ENG)</a>
+</div>
